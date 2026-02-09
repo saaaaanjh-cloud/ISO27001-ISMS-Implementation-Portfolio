@@ -1,5 +1,5 @@
 # ISO27001-ISMS-Implementation-Portfolio
-This repository demonstrates a practical ISO/IEC 27001:2022 aligned Information Security Management System (ISMS) implementation for a simulated Digital Payments & AML Technology organization.
+This repository contains a comprehensive Information Security Management System (ISMS) portfolio. It demonstrates the end-to-end application of the ISO 27001:2022 standard, including a quantitative Risk Register, a detailed Statement of Applicability (SoA), and a full suite of governance policies (BCP, Incident Response, and Data Protection) designed for a regulated BFSI environment.
 ## ISMS Scope
 The ISMS includes:
 - AML transaction monitoring systems
